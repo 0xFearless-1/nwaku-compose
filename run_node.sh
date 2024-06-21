@@ -66,7 +66,7 @@ exec /usr/bin/wakunode\
   --keep-alive=true\
   --max-connections=150\
   --cluster-id=16\
-  --dns-discovery = true\
+  --dns-discovery=true\
   --dns-discovery-url=enrtree://AMOJVZX4V6EXP7NTJPMAYJYST2QP6AJXYW76IU6VGJS7UVSNDYZG4@boot.test.shards.nodes.status.im\
   --pubsub-topic=/waku/2/rs/16/32\
   --discv5-discovery=true\
